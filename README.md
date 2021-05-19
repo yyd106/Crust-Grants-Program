@@ -4,6 +4,8 @@
 
 By joining the Crust Grants Program, you and your team will have following benefits that will strengthen your project growth and development.
 
+<font color=red>
+
 ## Grants Types
 
 We’ve designed a regular Grants and a hackathon Grants.
@@ -13,6 +15,9 @@ We’ve designed a regular Grants and a hackathon Grants.
 * Hackathon grants: Your idea has been through the selection process of Crust-Themed hackathon and won a prize, then you can get the Hackathon grant directly.
 
 Each type of Grants can be applied by following this Readme.
+
+</font>
+
 
 ## Guidelines
 
@@ -32,7 +37,10 @@ Additionally, it must fulfill the following requirements:
 - We do not award grants for projects that have been the object of a successful token sale.
 - Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 
+<font color=red>
+
 In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/crustio/Crust-Grant-Milestone-Delivery/blob/main/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, *written* documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
+</font>
 
 ### Project Ideas
 
@@ -67,6 +75,9 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 
 ### 3. Milestone Delivery and Payment
 
+<font color=red>
+
 *If you are a winning project in Crust-themed events, such as Hackathon, and do not intend to continue to work on your innovation to apply for a Regular Crust Grants of up to $30,000, you may ignore this section.*
+</font>
 
 Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).

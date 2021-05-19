@@ -1,8 +1,8 @@
 # Crust Grant Proposal
 
-* **Project Name:** Name of your project 
+* **Project Name:** Name of your project
 * **Team Name:** Legal name of your team
-* **Payment Address:** Ethereum address 
+* **Payment Address:** Ethereum address
 * **Receivable Token:** CRU or USDT
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -38,6 +38,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
+<font color=red>
 ## Grant Type
 
 ### Hackathon Grants
@@ -53,13 +54,14 @@ If you are a winning project from such events as Hackthon, please complete the f
 ### Ragular Grants
 
 **If you have not won any awards in any Crust-themed Hackathon and other similar activities, your application will be regarded as a regular Grants application. You can ignore this part and continue to fill in the following contents.**
+</font>
 
 ## Team
 
 ### Team members
 
 * Name of team leader
-* Names of team members	
+* Names of team members
 
 ### Contact
 
@@ -90,7 +92,7 @@ Please describe the team's relevant experience. If your project involves develop
 
 This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
+Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 For each milestone,
 
@@ -141,7 +143,6 @@ Please include here
 
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
-
 
 ## Additional Information 
 
