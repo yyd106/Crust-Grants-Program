@@ -1,8 +1,18 @@
 # Crust Grants Program
 
-
 ## Grants Program Benefits
+
 By joining the Crust Grants Program, you and your team will have following benefits that will strengthen your project growth and development.
+
+## Grants Types
+
+We’ve designed a regular grant and a hackathon grant.
+
+* Regular grants: You had an idea about Crust which has not been through any competition, and you want to apply for grants for it from Crust directly.
+
+* Hackathon grants: Your idea has been through the selection process of Crust-Themed hackathon and won a prize, then you can get the Hackathon grants directly.
+
+Each type of grants can be applied by following this Readme.
 
 ## Guidelines
 
@@ -25,27 +35,24 @@ Additionally, it must fulfill the following requirements:
 In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/crustio/Crust-Grant-Milestone-Delivery/blob/main/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, *written* documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
 ### Project Ideas
-An overview of existing projects in the Crust Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](crust_stack.md). 
+
+An overview of existing projects in the Crust Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](crust_stack.md).
 
 If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an email(`hi@crust.network`) and tell us about it.
 
-
 ## Support
 
-The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. 
-
+The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources.
 
 ## DCF Grant Committee
 
 The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technical experts from DCF, and is responsible for evaluating grant applications and providing feedback on these.
-
 
 ## Application Process
 
 ### 1. Application
 
 1. [Fork](https://github.com/crustio/Crust-Grants-Program/fork) this repository.
-
 2. In the newly created fork, create a copy of the [applications/application_template](applications/application_template.md) under the directory `applications/`. Make sure you **do not modify the template file directly**.
 3. Name the new file after your project:`project_name.md`.
 4. Fill out the template with the details of your project. The more information you provide, the faster the review.
@@ -57,7 +64,9 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 1. DCF Grants Committee will issue comments and request changes on the pull request.
 2. Clarifications and amendments made in the comments need to be included in the application. **You may address feedback by modifying your application directly and leaving a comment** once you're done.
 3. The application is accepted when all requested changes are addressed, the terms and conditions have been agreed upon.
+
 ### 3. Milestone Delivery and Payment
 
-Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
+*If you are a winning project in Crust-themed events, such as Hackathon, and do not intend to continue to work on your innovation to apply for a Regular Crust Grants of up to $30,000, you may ignore this section.*
 
+Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
