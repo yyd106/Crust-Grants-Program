@@ -67,6 +67,6 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 
 ### 3. Milestone Delivery and Payment
 
-*If you are a winning project in Crust-themed events, such as Hackathon, and do not intend to continue to work on your innovation to apply for a Regular Crust Grants of up to $30,000, you may ignore this section.*
+*If you are a winning project in Crust-themed events, such as Hackathon, and do not intend to continue to work on your innovation to apply for a Regular Crust Grants of up to $30,000, you may ignore this section. If you are interested in the regular Grants, you can follow the hint in [applications/application_template](applications/application_template.md) to complate the application*
 
 Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
