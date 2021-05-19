@@ -9,15 +9,17 @@
 
 > ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
-### Overview
+## Overview
 
 Please provide the following:
-  * A project name
-  * A brief description of your project.
-  * An indication of how your project relates to / integrates into Crust.
-  * An indication of why your team is interested in creating this project.
+
+* A project name
+* A brief description of your project.
+* An indication of how your project relates to / integrates into Crust.
+* An indication of why your team is interested in creating this project.
 
 ### Project Details 
+
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
 * Mockups/designs of any UI components
@@ -36,29 +38,51 @@ Help us locate your project in the Crust landscape and what problems it tries to
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
+## Grant Type
+
+### Hackathon Grants
+
+If you are a winning project from such events as Hackthon, please complete the following information.
+
+* Provide the link to your project’s profile in the event.
+* Would you like to continue to improve your project and apply for a Crust Grants of up to $30,000?
+  * If yes, please complete the rest of the application information and proceed to the regular Grants review process.
+  * If no, you may ignore the application information below.
+* We will transfer the bonuses you won in events as soon as we have reviewed and merged your application.
+
+### Ragular Grants
+
+If you have not won any awards in any Crust-themed Hackathon and other similar activities, your application will be regarded as a regular grant application. You can ignore this part and continue to fill in the following contents.
+
 ## Team
 
 ### Team members
+
 * Name of team leader
 * Names of team members	
 
 ### Contact
+
 * **Contact Name:** Full name of the contact person in your team
 * **Contact Email:** Contact email (e.g. dean@crust.network)
 * **Website:**
 
 ### Legal Structure 
+
 * **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
 * **Registered Legal Entity:** Name of your registered legal entity, if available. 
 
 ### Team's experience
+
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
 
 ### Team Code Repos
+
 * https://github.com/<your_repo_1>
 * https://github.com/<your_repo_2>
 
 ### Team LinkedIn Profiles
+
 * https://www.linkedin.com/<person_1>
 * https://www.linkedin.com/<person_2>
 
@@ -81,6 +105,7 @@ For each milestone,
 > If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
+
 * **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
 * **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
 * **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
@@ -98,7 +123,6 @@ For each milestone,
 | 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
 | 2. | Crust module: Y | We will create a Crust module that will... |  
 | 3. | Crust module: Z | We will create a Crust module that will... |  
-
 
 
 ### Milestone 2 Example — Additional features
