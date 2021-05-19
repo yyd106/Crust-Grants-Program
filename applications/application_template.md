@@ -18,7 +18,7 @@ Please provide the following:
 * An indication of how your project relates to / integrates into Crust.
 * An indication of why your team is interested in creating this project.
 
-### Project Details 
+### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
@@ -28,13 +28,13 @@ We expect the teams to already have a solid idea about your project's expected f
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 
-### Ecosystem Fit 
+### Ecosystem Fit
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? 
-* What need(s) does your project meet? 
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
+* Where and how does your project fit into the ecosystem?
+* What need(s) does your project meet?
+* Are there any other projects similar to yours in the IPFS/Crust ecosystem?
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
@@ -46,13 +46,13 @@ If you are a winning project from such events as Hackthon, please complete the f
 
 * Provide the link to your project’s profile in the event.
 * Would you like to continue to improve your project and apply for a Crust Grants of up to $30,000?
-  * If yes, please complete the rest of the application information and proceed to the regular Grants review process.
+  * If yes, please complete the rest of the application information, and we will proceed this application to the regular Grants review process.
   * If no, you may ignore the application information below.
 * We will transfer the bonuses you won in events as soon as we have reviewed and merged your application.
 
 ### Ragular Grants
 
-If you have not won any awards in any Crust-themed Hackathon and other similar activities, your application will be regarded as a regular grant application. You can ignore this part and continue to fill in the following contents.
+**If you have not won any awards in any Crust-themed Hackathon and other similar activities, your application will be regarded as a regular Grants application. You can ignore this part and continue to fill in the following contents.**
 
 ## Team
 
@@ -67,10 +67,10 @@ If you have not won any awards in any Crust-themed Hackathon and other similar a
 * **Contact Email:** Contact email (e.g. dean@crust.network)
 * **Website:**
 
-### Legal Structure 
+### Legal Structure
 
 * **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
-* **Registered Legal Entity:** Name of your registered legal entity, if available. 
+* **Registered Legal Entity:** Name of your registered legal entity, if available.
 
 ### Team's experience
 
@@ -110,7 +110,8 @@ For each milestone,
 * **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
 * **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
 
-### Milestone 1 Example — Implement Crust Order Modules 
+### Milestone 1 Example — Implement Crust Order Modules
+
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** 8,000 USD
