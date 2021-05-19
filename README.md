@@ -6,13 +6,13 @@ By joining the Crust Grants Program, you and your team will have following benef
 
 ## Grants Types
 
-We’ve designed a regular grant and a hackathon grant.
+We’ve designed a regular Grants and a hackathon Grants.
 
-* Regular grants: You had an idea about Crust which has not been through any competition, and you want to apply for grants for it from Crust directly.
+* Regular grants: You had an idea about Crust which has not been through any competition, and you want to apply for grant for it from Crust directly.
 
-* Hackathon grants: Your idea has been through the selection process of Crust-Themed hackathon and won a prize, then you can get the Hackathon grants directly.
+* Hackathon grants: Your idea has been through the selection process of Crust-Themed hackathon and won a prize, then you can get the Hackathon grant directly.
 
-Each type of grants can be applied by following this Readme.
+Each type of Grants can be applied by following this Readme.
 
 ## Guidelines
 
