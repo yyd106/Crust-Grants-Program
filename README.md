@@ -4,16 +4,6 @@
 
 By joining the Crust Grants Program, you and your team will have following benefits that will strengthen your project growth and development.
 
-## Grants Types
-
-We’ve designed a regular Grants and a hackathon Grants.
-
-* Regular grants: You had an idea about Crust which has not been through any competition, and you want to apply for grant for it from Crust directly.
-
-* Hackathon grants: Your idea has been through the selection process of Crust-Themed hackathon and won a prize, then you can get the Hackathon grant directly.
-
-Each type of Grants can be applied by following this Readme.
-
 ## Guidelines
 
 Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
@@ -66,7 +56,5 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 3. The application is accepted when all requested changes are addressed, the terms and conditions have been agreed upon.
 
 ### 3. Milestone Delivery and Payment
-
-*If you are a winning project in Crust-themed events, such as Hackathon, and do not intend to continue to work on your innovation to apply for a Regular Crust Grants of up to $30,000, you may ignore this section.*
 
 Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
