@@ -38,22 +38,6 @@ Help us locate your project in the Crust landscape and what problems it tries to
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
-## Grant Type
-
-### Hackathon Grants
-
-If you are a winning project from such events as Hackthon, please complete the following information.
-
-* Provide the link to your project’s profile in the event.
-* Would you like to continue to improve your project and apply for a Crust Grants of up to $30,000?
-  * If yes, please complete the rest of the application information, and we will proceed this application to the regular Grants review process.
-  * If no, you may ignore the application information below.
-* We will transfer the bonuses you won in events as soon as we have reviewed and merged your application.
-
-### Ragular Grants
-
-**If you have not won any awards in any Crust-themed Hackathon and other similar activities, your application will be regarded as a regular Grants application. You can ignore this part and continue to fill in the following contents.**
-
 ## Team
 
 ### Team members
